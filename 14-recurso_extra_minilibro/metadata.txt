@@ -1,0 +1,13 @@
+---
+title: 
+- type: main
+  text: Islandia
+- type: subtitle
+  text: Guía de vajes - Islandia
+creator:
+- role: author
+  text: Magdalena Barro Miño
+publisher:  Lonely Planet
+ibooks:
+  version: 1.0.0 
+...

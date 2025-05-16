@@ -1,0 +1,627 @@
+:: StoryTitle
+PERDIDO EN ISLANDIA
+
+
+:: StoryData
+{
+  "ifid": "7a6d2345-79f4-4a25-807c-26d0a955de8f",
+  "format": "Chapbook",
+  "format-version": "2.3.0",
+  "start": "Reikiavik ",
+  "zoom": 1
+}
+
+
+:: 2.1 Islandés {"position":"150,225","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Hallgrímskirkja (Reykjavík)**
+
+_-Góðan daginn! Ég er að leita að olíuflöskunni minni..._<br>
+(Buenos días. Estoy buscando mi botella de aceite.)
+
+El islandés masca pescado seco y responde:
+
+_-Já... Kokkurinn á Olíudraumur mötuneytinu notaði það._ <br>
+(Sí... El cocinero de la cafetería Olíudraumur lo utilizó.)<br>
+
+{embed image: 'img/hombre_jersey.jpg'}
+
+**¿Qué haces?**
+
+[[¿Me das tu jeresey de lana?|2.1.1 Jersey]]
+
+[[Vas a buscar al cocinero de la cafetería|2.1.2 Cafetería]]
+
+[[¡Quiero hablar con el alcalde!|2.1.3 Alcalde]]
+
+
+:: 2.1.1 Jersey {"position":"50,425","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Hallgrímskirkja (Reykjavík)**
+
+El islandés se enfada y dice mientras acaricia su jersey de lana de oveja islandesa:
+
+_-Enginn Íslendingur gefur frá sér ullarpeysuna sína!_ <br>
+(¡Ningún islandés regala su jersey de lana!)<br>
+
+Se va pero vuelves a preguntarle por tu aceite...
+
+{embed image: 'img/hombre_jersey_2.jpg'}
+
+[[← Volver|2.1 Islandés]]
+
+
+:: 2.1.2 Cafetería {"position":"250,450","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Cafetería "Olíudraumur"**
+
+El camarero te dice que lo utilizaron para hacer unos bollos pero que no gustaron nada a los clientes. Pero recuerda que hubo uno al que sí le gustó, así que le dieron la botella con el aceite que quedaba. Cree que dijo algo sobre el pueblo de Hvammstangi...
+
+¿Qué haces?
+
+{embed image: 'img/camarero.jpg'}
+
+[[¿Dónde queda eso?|2.1.2.1 Hvammstangi]]<br>
+[[Esto es un atraco vikingo|2.1.2.2 Atraco]]<br>
+[[¿Tenéis algo sin pescado fermentado?"|2.1.2.3 Pescado]]<br>
+
+
+
+
+:: 2.1.2.1 Hvammstangi {"position":"25,575","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Hvammstangi**
+
+Consigues llegar a Hvammstangi y un pastor de ovejas islandesas te dice:
+
+_-El aceite lo cambió mi primo por lana en Borgarfjörður. ¡Allí hacen unos trueques muy raros!_<br>
+
+{embed image: 'img/pastores.jpg'}
+
+¿Qué le respondes?
+
+[[¿Me llevas a Borgarfj...?|2.1.2.1.1 Borgarfjörður]]
+
+[[¿Me regalas tu jersey? |2.1.2.1.2 Jersey]]
+
+[[Prefiero hablar con las focas|2.1.2.1.3 Focas]]
+
+
+
+
+
+
+
+:: 2.1.2.1.1 Borgarfjörður {"position":"50,750","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Borgarfjörður**
+
+El pastor te deja delante de una tienda de lana de Borgarfjörður. Entras y la dueña está tejiendo un jersey con la cara de Björk. Le preguntas por tu aceite de oliva y te dice:
+
+_-Lo cambié por un disco raro de Sigur Rós... Se lo llevó el DJ más famoso de Reykjavík._
+
+{embed image: 'img/tienda_2.jpg'}
+
+[[Voy a Reykjavík|2.1.2.1.1.1 Reykjavík]]
+
+[[¿¡Sigur Ros!?|2.1.2.1.1.2 Sigur_Ros]]
+
+[[¿Me regalas el jersey de Björk?|2.1.2.1.1.3 Jersey]]
+
+
+
+
+
+:: 2.1.2.1.1.1 Reykjavík {"position":"25,1000","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Reykjavík  Club "Prikið"**
+
+Cuando vas a entrar en el Prikið a buscar al DJ, aparece Björk con tu botella de aceite en la mano. Se acerca y te dice:
+
+_-¡Adoro este aceite de oliva! Lo probé cuando grabé el Homogenic en el estudio "El Cortijo" de Málaga! Pero te lo devuelvo si cantas Gling-Gló conmigo._
+
+{embed image: 'img/prikid.jpg'}
+
+[[¡Dios mío, es Björk!|2.1.2.1.1.1.1 Dios mío]]
+
+[[A Björk le doy lo que quiera|2.1.2.1.1.1.2 Le doy el aceite]]
+
+[[¿Cómo no voy a cantar con Björk?|2.1.2.1.1.1.3 Canto]]
+
+
+
+
+
+:: 2.1.2.1.1.1.1 Dios mío {"position":"50,1150","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+​
+#page { 
+  background-color: #f3f3f3;
+}
+​
+[continue]
+​
+**Reykjavík  Club "Prikið"**
+
+_-¡Oh, Dios mío!¡Eres Björk! ¡Quédate el aceite si quieres! ¿Necesitas más? ¡Yo te lo envío directamente desde España!_
+
+{embed image: 'img/bjork_2.jpg'}
+
+<div class="boton-mio">[[← Volver|Reikiavik ]]</div>
+
+
+:: 2.1.2.1.1.1.2 Le doy el aceite {"position":"400,1100","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+​
+#page { 
+  background-color: #f3f3f3;
+}
+​
+[continue]
+​
+**Reykjavík  Club "Prikið"**
+
+_-Que...que...que...quédate con el aceite. Te envío más si quieres... ¿Me puedo hacer una foto contigo? 
+
+{embed image: 'img/bjork_2.jpg'}
+
+<div class="boton-mio">[[← Volver|Reikiavik ]]</div>
+
+
+:: 2.1.2.1.1.1.3 Canto {"position":"225,1125","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+​
+#page { 
+  background-color: #f3f3f3;
+}
+​
+[continue]
+​
+**Reykjavík  Club "Prikið"**
+
+Canto como si no hubiese un mañana y me da igual el aceite y todo. ¡Voy a cantar con Björk!
+
+{embed image: 'img/concierto.avif'}
+
+<div class="boton-mio">[[← Volver|Reikiavik ]]</div>
+
+
+:: 2.1.2.1.1.2 Sigur_Ros {"position":"200,950","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Borgarfjörður**
+
+_-¿Un disco de Sigur Rós? ¿¡Mi botella de aceite sólo vale un disco de Sigur Rós?!_
+
+Te vas enfadado pero cuando te das cuenta de que no tienes ni tu aceite ni un jersey de lana con la cara de Björk, vuelves a entrar...
+
+{embed image: 'img/tienda.jpg'}
+
+
+<div class="boton-mio">[[← Volver|2.1.2.1.1 Borgarfjörður]]</div>
+
+
+:: 2.1.2.1.1.3 Jersey {"position":"375,950","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Borgarfjörður**
+
+_-Enginn Íslendingur gefur frá sér ullarpeysuna sína!_ <br>
+(¡Ningún islandés regala su jersey de lana!)<br>
+
+Te vas muy enfadado pero cuando te das cuenta de que no tienes tu aceite, vuelves a entrar...
+
+{embed image: 'img/tienda.jpg'}
+
+<div class="boton-mio">[[← Volver|2.1.2.1.1 Borgarfjörður]]</div>
+
+
+
+:: 2.1.2.1.2 Jersey {"position":"225,725","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Hvammstangi**
+
+_-Enginn Íslendingur gefur frá sér ullarpeysuna sína!_ <br>
+(¡Ningún islandés regala su jersey de lana!)<br>
+
+Se va pero intentas que vuelva para preguntarle por tu aceite...
+
+{embed image: 'img/pastores.jpg'}
+
+
+<div class="boton-mio">[[← Volver|2.1.2.1 Hvammstangi]]</div>
+
+
+:: 2.1.2.1.3 Focas {"position":"400,750","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Hvammstangi**
+
+Una foca escupe un pez a tu cara. El pastor te mira, se ríe y vuelves a habar con él avergonzado...
+
+{embed image: 'img/focas.jpg'}
+
+<div class="boton-mio">[[← Volver|2.1.2.1 Hvammstangi]]</div>
+
+
+:: 2.1.2.2 Atraco {"position":"500,625","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/aeropuerto_0.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Cafetería "Olíudraumur"**
+
+_-¡Esto es un atraco vikingo!_
+
+Te vas pero vuelves porque necesitas tu botella...
+
+{embed image: 'img/cafeteria.jpg'}
+
+
+<div class="boton-mio">[[← Volver|2.1.2 Cafetería]]</div>
+
+
+:: 2.1.2.3 Pescado {"position":"625,550","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/aeropuerto_0.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Cafetería "Olíudraumur"**
+
+_-Nei!_
+
+Te vas con hambre y sin tu aceite, pero al final vuelves porque no puedes vivir sin tu aceite de oliva...
+
+{embed image: 'img/pescado.jpg'}
+
+<div class="boton-mio">[[← Volver|2.1.2 Cafetería]]</div>
+
+
+:: 2.1.3 Alcalde {"position":"475,425","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Hallgrímskirkja (Reykjavík)**
+
+El islandés ríe mientras señala una estatua:<br>
+
+_-Borgarstjórinn? Hann er í árinni ferðalag!_ <br>
+(¿El alcalde? ¡Está de vacaciones!)<br>
+
+Será mejor que le preguntes a otra persona...
+
+{embed image: 'img/alcalde.jpg'}
+
+[[← Volver|2.1 Islandés]]
+
+
+
+
+:: 2.2 Español {"position":"525,275","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Hallgrímskirkja (Reykjavík)**
+
+_-¡Era Picual de Jaén!_<br>
+
+El hombre del jersey de lana te da un skyr y se va.
+
+{embed image: 'img/hombre_skyr.jpg'}
+
+Creo que será mejor que pregunte en otro idioma... Aunque oye, el skyr está bueno...
+
+<div class="boton-mio">[[← Volver|Reikiavik ]]</div>
+
+
+:: 2.3 Inglés {"position":"675,225","size":"100,100"}
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**Hallgrímskirkja (Reykjavík)**
+
+_-Have you seen my "liquid gold"?_<br>
+
+El islandés sonríe:
+
+_-Já! Við notuðum það í lampann!_ <br>
+(¡Sí! Lo usamos en lámparas!)<br>
+_-...¿?_<br>
+
+El hombre se va riéndose y tú buscas a otra  persona a quién preguntarle.
+
+{embed image: 'img/hombre_rie.jpg'}
+
+<div class="boton-mio">[[← Volver|Reikiavik ]]</div>
+
+
+:: Reikiavik\  {"position":"400,100","size":"100,100"}
+config.style.googleFont: '<link href="https://fonts.googleapis.com/css?family=Latos" rel="stylesheet">'
+config.style.page.font: 'Lato/sans-serif 16'
+config.header.center: "__PERDIDO EN ISLANDIA__"
+config.footer.center: "Magdalena Barro Miño 2025"
+config.header.right: ""
+config.header.left: ""
+config.style.backdrop: 'blue-3'
+config.style.dark.backdrop: 'blue-6'
+--
+[CSS]
+
+#backdrop { 
+  background-image: url("img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: #f3f3f3;
+}
+
+[continue]
+
+**¡BIENVENIDO A ISLANDIA!**<br>
+**Hallgrímskirkja (Reykjavík)**
+
+
+{embed image: 'img/aceite.jpg'} 
+
+Acabas de llegar a Reykjavík y te das cuenta que no tienes la **botella de aceite de oliva virgen extra** (ahora parece ser que le llaman AOVE) que llevabas en la mochila. Sí, esa que escondiste tan bien entre los calcetines para que no te la confiscaran en la aduana del aeropuerto. 
+
+Como buen español no puedes vivir sin aceite de oliva y sólo con pensar que tienes que pasarte una semana comiendo cosas hechas en grasa o mantequilla, te da mucho repelús. Por lo tanto, sí o sí, tienes que encontrarla. 
+
+Un islandés con jersey de lana tejido a mano te observa mientras revuelves en tu mochila en busca de la botella, así que decides decirle:
+
+> [[Góðan daginn!|2.1 Islandés]]
+> [[¡Hostia, que ese aceite vale más que mi móvil!|2.2 Español]] 
+> [[Excuse me, my oil has... disappeared?|2.3 Inglés]]
+
+<style>
+  /* ESTO PONERLO TAL CUAL */
+  .boton-mio {
+    background: #2a5db0;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: block;
+    width: fit-content;
+    margin: 20px 0;
+  }
+</style>
+
